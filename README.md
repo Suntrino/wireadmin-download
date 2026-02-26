@@ -27,6 +27,7 @@ responsibly, and without compromise.
 ## How You Can Use It
 
 - Install and run it on your own server.
+- Modify it for your own use.
 - Share it with others.
 - Use it commercially **if you host it yourself**.
 #
