@@ -4,6 +4,8 @@
 Wire Admin is a project provided freely to the community. 
 It offers a web interface to self-host WireGuard VPN servers.
 
+See it in action here: https://www.youtube.com/watch?v=rdKbq3l_FHg
+
 #
 ## About Wire Admin ##
 
